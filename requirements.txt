@@ -1,0 +1,4 @@
+Django==1.8
+psycopg2
+django-crispy-forms
+django-registration-redux
